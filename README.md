@@ -2,18 +2,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Deepanshu%20Singh&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI-ML%20Explorer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Deepanshu%20Singh&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20DSA%20Learner%20•%20AI-ML%20Explorer&descAlignY=58&descSize=22&color=0:8A2BE2,30:6A5ACD,60:4169E1,100:00BFFF"/>
 
-# Hi there, I'm Deepanshu 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Structures+%26+Algorithms;AI-ML+Explorer;Building+Projects+Every+Day+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Projects+Every+Day+🚀;Solving+Problems+with+DSA;Exploring+Full+Stack+Development;Learning+AI+and+Machine+Learning" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=DeepanshuSingh04&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/DeepanshuSingh04?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=DeepanshuSingh04&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/DeepanshuSingh04?style=for-the-badge"/>
 
 </div>
+
+---
 
 ---
 ## 💫 About Me

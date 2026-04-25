@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Deepanshu%20Singh&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI-ML%20Explorer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Deepanshu%20Singh&fontSize=62&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20DSA%20Learner%20•%20AI-ML%20Explorer&descAlignY=60&descSize=22&color=0:00C6FF,50:0072FF,100:8E2DE2"/>
 
 # Hi there, I'm Deepanshu 👋
 
@@ -44,10 +44,14 @@ class Deepanshu {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+
+## Technical Skills
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
 
 ## Tools
 

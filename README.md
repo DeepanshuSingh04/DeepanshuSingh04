@@ -1,17 +1,6 @@
 # 🚀 Deepanshu Singh
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Deepanshu%20Singh&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20DSA%20Learner%20•%20AI-ML%20Explorer&descAlignY=60&descSize=22&color=0:00C6FF,50:7F5AF0,100:FF4D9D"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile+✨;Building+Projects+Every+Day+🚀;Solving+Problems+with+DSA;Exploring+AI+%26+Full+Stack+Development" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DeepanshuSingh04&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/DeepanshuSingh04?style=for-the-badge"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Deepanshu%20Singh&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI-ML%20Explorer&descAlignY=60"/>
 
 # Hi there, I'm Deepanshu 👋
 

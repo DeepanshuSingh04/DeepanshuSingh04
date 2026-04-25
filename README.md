@@ -4,7 +4,7 @@
 
 # Hi there, I'm Deepanshu 👋
 
-### Java Developer | DSA Learner | Front-End Explorer
+### Full Stack Developer | DSA Learner | AI-ML Explorer
 
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
@@ -35,15 +35,19 @@ class Deepanshu {
 ## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge)
 
 ## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
 
 ---
 
@@ -51,15 +55,15 @@ class Deepanshu {
 
 ## General Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=DeepanshuSingh04\&show_icons=true\&theme=tokyonight)
 
 ## Streak
 
-![Streak](https://streak-stats.demolab.com?user=YOURUSERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=DeepanshuSingh04\&theme=tokyonight)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuSingh04\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -74,25 +78,6 @@ class Deepanshu {
 
 ---
 
-# 📈 Contribution Snake
-
-```md
-Add this using GitHub Actions later:
-Platane/snk
-```
-
----
-
-# 🧠 Currently Learning
-
-* Data Structures
-* Recursion
-* Problem Solving Patterns
-* React Basics
-* Backend Fundamentals
-
----
-
 # 🎯 2026 Goals
 
 * Solve 500+ DSA questions
@@ -104,9 +89,9 @@ Platane/snk
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/YOURUSERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:YOUREMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/deepanshu-singh-57646537a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/DeepanshuSingh04)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:deepanshusingh202206@gmail.com)
 
 ---
 
@@ -122,35 +107,4 @@ Platane/snk
 
 </div>
 
----
-
-# ⚙️ IMPORTANT BEFORE USING
-
-Replace these:
-
-* `YOURUSERNAME` → your GitHub username
-* `YOUR_LINKEDIN` → your LinkedIn URL
-* `YOUREMAIL` → your email
-
-Then copy everything into your GitHub profile README.
-
----
-
-## Repository setup
-
-Create a repository with EXACTLY your username:
-
-Example if username is:
-
-```bash
-deepanshu-singh
-```
-
-Repository name must also be:
-
-```bash
-deepanshu-singh
-```
-
-Add this README inside it.
 

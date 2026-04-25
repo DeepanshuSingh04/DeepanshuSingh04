@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00c6ff,50:0072ff,100:8e2de2&text=Deepanshu%20Singh&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI-ML%20Explorer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff0080,50:7928ca,100:2afadf&text=Deepanshu%20Singh&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI-ML%20Explorer&descAlignY=60"/>
 
 # Hi there, I'm Deepanshu 👋
 

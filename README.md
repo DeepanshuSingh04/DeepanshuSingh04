@@ -1,5 +1,7 @@
 # 🚀 Deepanshu Singh
 
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Deepanshu%20Singh&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI-ML%20Explorer&descAlignY=60"/>
 
 # Hi there, I'm Deepanshu 👋
@@ -14,7 +16,6 @@
 </div>
 
 ---
-
 
 ## 💫 About Me
 

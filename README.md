@@ -2,16 +2,20 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Deepanshu%20Singh&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20AI-ML%20Explorer&descAlignY=60"/>
+
 # Hi there, I'm Deepanshu 👋
 
-### Full Stack Developer | DSA Learner | AI-ML Explorer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Structures+%26+Algorithms;AI-ML+Explorer;Building+Projects+Every+Day+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DeepanshuSingh04&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/DeepanshuSingh04?style=for-the-badge" />
 
 </div>
 
 ---
-
 ## 💫 About Me
 
 ```java

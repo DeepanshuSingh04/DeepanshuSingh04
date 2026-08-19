@@ -23,7 +23,7 @@
 
 ## 💫 About Me
 
-\`\`\`java
+```java
 class Deepanshu {
     private String role = "Full Stack Developer (MERN)";
     private String[] learning = {"DSA in Java", "System Design", "AI/ML + RAG"};
@@ -35,7 +35,7 @@ class Deepanshu {
         System.out.println("Pixora — a full-stack Instagram-style social app");
     }
 }
-\`\`\`
+```
 
 - 🔭 Currently building **Pixora** — a full-stack social media platform (posts, reels, follow/like system)
 - 🧠 Solved **200+ DSA problems** on LeetCode — sharpening problem solving daily
@@ -103,7 +103,7 @@ class Deepanshu {
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuSingh04&theme=redental&hide_border=true&bg_color=0f0c29&color=E8C87E&line=E8C87E&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepanshuSingh04&theme=react-dark&hide_border=true&bg_color=0f0c29&color=E8C87E&line=E8C87E&point=ffffff&area=true&area_color=E8C87E" width="100%" />
 </div>
 
 <br>
@@ -117,7 +117,7 @@ class Deepanshu {
 ### 🖼️ Pixora
 Full-stack Instagram-inspired social media platform — posts, reels, follow/like system with JWT-based auth.
 
-\`React\` \`Node.js\` \`Express\` \`MongoDB\`
+`React` `Node.js` `Express` `MongoDB`
 
 **Status:** 🚧 In Progress
 
@@ -127,7 +127,7 @@ Full-stack Instagram-inspired social media platform — posts, reels, follow/lik
 ### 📝 Scriblio
 A clean note-taking app with full CRUD functionality — create, edit, organize, and delete notes seamlessly.
 
-\`JavaScript\` \`Node.js\` \`MongoDB\`
+`JavaScript` `Node.js` `MongoDB`
 
 **Status:** ✅ Complete
 
@@ -139,7 +139,7 @@ A clean note-taking app with full CRUD functionality — create, edit, organize,
 ### 🌐 Personal Portfolio
 A dynamic, animated personal portfolio website built to showcase projects and skills with a bold visual identity.
 
-\`React\` \`GSAP\` \`Three.js\`
+`React` `GSAP` `Three.js`
 
 **Status:** ✅ Live on GitHub Pages
 
@@ -149,7 +149,7 @@ A dynamic, animated personal portfolio website built to showcase projects and sk
 ### 🖥️ macOS Clone
 A pixel-accurate recreation of the macOS desktop UI — dock, windows, and interactions rebuilt for the browser.
 
-\`React\` \`CSS3\` \`JavaScript\`
+`React` `CSS3` `JavaScript`
 
 **Status:** 🚧 In Progress
 
@@ -173,16 +173,10 @@ A pixel-accurate recreation of the macOS desktop UI — dock, windows, and inter
 
 <div align="center">
 
-> "The best way to learn is to build."
+> "The Best Way to Learn is To BUILD"
 
 </div>
 
 <br>
 
-<div align="center">
-
-### ⭐ If you like what you see, consider starring my repositories!
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
-
-</div>

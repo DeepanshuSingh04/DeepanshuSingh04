@@ -30,12 +30,12 @@ class Deepanshu {
     private String motto = "Progress over perfection";
 
     public void currentlyBuilding() {
-        System.out.println("Pixora — a full-stack Instagram-style social app");
+        System.out.println("RentEase — a full-stack rental property platform");
     }
 }
 ```
 
-- 🔭 Currently building **Pixora** — a full-stack social media platform (posts, reels, follow/like system)
+- 🔭 Currently building **RentEase** — a full-stack rental property management platform with role-based access for Tenants, Owners & Admins
 - 🧠 Solved **200+ DSA problems** on LeetCode — sharpening problem solving daily
 - 🌱 Exploring **AI/ML, RAG pipelines, and AI Agents** alongside core web development
 - 💻 Comfortable across the **full MERN stack**, with growing interest in system design
@@ -110,12 +110,12 @@ class Deepanshu {
 <tr>
 <td width="50%">
 
-### 🖼️ Pixora
-Full-stack Instagram-inspired social media platform — posts, reels, follow/like system with JWT-based auth.
+### 🏠 RentEase
+Full-stack rental property management platform for the Indian market — role-based access for Tenants, Owners & Admins with a verified listing workflow, lease tracking, and rent payments.
 
 `React` `Node.js` `Express` `MongoDB`
 
-**Status:** 🚧 In Progress
+**Status:** ✅ Live — [rentease-1-iuwn.onrender.com](https://rentease-1-iuwn.onrender.com)
 
 </td>
 <td width="50%">
@@ -156,7 +156,7 @@ A pixel-accurate recreation of the macOS desktop UI — dock, windows, and inter
 ## `~/roadmap-2026`
 
 - [ ] Cross 500+ solved problems on LeetCode
-- [ ] Ship Pixora end-to-end and deploy it live
+- [ ] Add real-time chat and analytics to RentEase
 - [ ] Build and ship **Career OS** — an AI-powered RAG + Agent portfolio project
 - [ ] Land a Software Engineering internship
 - [ ] Stay consistent with daily GitHub contributions

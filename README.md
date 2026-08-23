@@ -115,7 +115,7 @@ Full-stack rental property management platform for the Indian market — role-ba
 
 `React` `Node.js` `Express` `MongoDB`
 
-**Status:** ✅ Live — []
+**Status:** ✅ Live — [https://rentease-1-iuwn.onrender.com/]
 
 
 </td>

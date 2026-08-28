@@ -39,7 +39,6 @@ class Deepanshu {
 - 🧠 Solved **200+ DSA problems** on LeetCode — sharpening problem solving daily
 - 🌱 Exploring **AI/ML, RAG pipelines, and AI Agents** alongside core web development
 - 💻 Comfortable across the **full MERN stack**, with growing interest in system design
-- ⚡ Fun fact: I debug faster with a strong cup of chai in hand
 
 ## `~/tech-stack`
 
@@ -164,7 +163,7 @@ A pixel-accurate recreation of the macOS desktop UI — dock, windows, and inter
 
 <div align="center">
 
-> "Code is like humor. When you have to explain it, it's bad."
+> "The Best Way To Learn is To Build"
 > — Cory House
 
 </div>

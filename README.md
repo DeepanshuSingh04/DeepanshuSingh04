@@ -112,7 +112,7 @@ Full-stack web app that uses real-time facial expression detection to sense your
 
 `React` `Node.js` `MediaPipe` `MongoDB`
 
-**Status:** ✅ Live — [Demo]([https://rentease-1-iuwn.onrender.com/](https://moodify-5r4l.onrender.com/)) 
+**Status:** ✅ Live — [Demo](https://moodify-5r4l.onrender.com/) 
 
 </td>
 </tr>

@@ -112,7 +112,7 @@ Full-stack web app that uses real-time facial expression detection to sense your
 
 `React` `Node.js` `MediaPipe` `MongoDB`
 
-**Status:** ✅ Live
+**Status:** ✅ Live — [Demo]([https://rentease-1-iuwn.onrender.com/](https://moodify-5r4l.onrender.com/)) 
 
 </td>
 </tr>
@@ -139,14 +139,6 @@ A full-stack notes management application built with the MERN stack that allows 
 </td>
 </tr>
 </table>
-
-## `~/roadmap-2026`
-
-- [ ] Cross 500+ solved problems on LeetCode
-- [ ] Add real-time chat and analytics to RentEase
-- [ ] Build and ship an AI-powered RAG + Agent portfolio project
-- [ ] Land a Software Engineering internship
-- [ ] Stay consistent with daily GitHub contributions
 
 <div align="center">
 
